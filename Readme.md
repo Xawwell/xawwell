@@ -1,6 +1,6 @@
 # Calendarbot
 
-This bot gets your schedule from Google Calendar.
+This bot gets your schedule from Google Calendar and has the option to export them to a txt. file.
 
 ## Instructions on how to run:
 
